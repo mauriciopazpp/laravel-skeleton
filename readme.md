@@ -14,6 +14,22 @@
 * [AdminLTE](https://adminlte.io/) - Interface
 * [orchestra/imagine](https://github.com/orchestral/imagine) - Tratamento de imagens
 
+## Screenshots
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(7).png)
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(6).png)
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(3).png)
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(5).png)
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(1).png)
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(2).png)
+
+![](https://github.com/mauriciopazpp/laravel-skeleton/blob/master/DOCS/Screenshots/Screenshot%20(4).png)
+
 ## Requisitos
 * PHP >= 5.6.*
 * OpenSSL PHP Extension
